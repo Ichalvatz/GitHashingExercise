@@ -1,0 +1,1 @@
+Usage: ./hash_script 0731
